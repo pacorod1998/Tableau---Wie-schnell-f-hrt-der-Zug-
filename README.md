@@ -1,5 +1,5 @@
 # Tableau - Wie schnell fährt der Zug?
-**Tableau public interactive Dashboard:** [https://public.tableau.com/views/WieschnellfhrtderZug/Dashboard?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link]
+**Tableau public interactive Dashboard:** https://public.tableau.com/views/WieschnellfhrtderZug/Dashboard?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 **Background:**
 
